@@ -14,5 +14,5 @@ This is a simple **AI-powered resume generator** built with **Streamlit**, **Goo
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/ai-resume-generator.git
+   git clone https://github.com/Ruchikababu/ai-resume-generator.git
    cd ai-resume-generator
